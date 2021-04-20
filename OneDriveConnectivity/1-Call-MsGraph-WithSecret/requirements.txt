@@ -1,0 +1,19 @@
+requests>=2,<3
+msal>=0.6.1,<2
+
+
+# // {
+# //   "authority": "https://login.microsoftonline.com/41875f2b-33e8-4670-92a8-f643afbb243a",
+# //   "client_id": "3147530c-7c80-46d4-8dbf-0039f1b05df8",
+# //   "scope": [ "https://graph.microsoft.com/.default" ],
+# //   "secret": " uVD-O.eZ8G-gkM0Cd0cc7zQHpz~~1rC63C",
+# //   "endpoint": "https://graph.microsoft.com/v1.0/me/drive/root/children"
+# // }
+
+# {
+#   "authority": "https://login.microsoftonline.com/cb708b7c-cfaf-4aef-8e57-a5a046700dfc",
+#   "client_id": "9b963eb9-734a-44f9-af8f-f8556c2f23a1",
+#   "scope": [ "https://graph.microsoft.com/.default" ],
+#   "secret": "49BHiXk_Ws2Xr3HVXT7Z.1.tdM2P_IYOg0",
+#   "endpoint": "https://graph.microsoft.com/v1.0/me/drive/root/children"
+# }

@@ -1,0 +1,8 @@
+{  
+  
+  "authority": "https://login.microsoftonline.com/ad0484b5-feb5-4f95-949f-a9cbe7a34294",
+  "client_id": "f6b48f58-a5a0-4ba6-b0cd-efecddaddb25",
+  "scope": [ "https://graph.microsoft.com/.default" ],
+  "secret": "xZHO0Rfsue~SD.BuZ7OiAyi18LL3F._NYI",
+  "endpoint": "https://graph.microsoft.com/v1.0/users/c67255c9-a875-4951-9d2a-0c6ed8a5a8d1/drive/root:/Book.xlsx:/workbook/worksheets('Sheet1')/usedRange"
+}
